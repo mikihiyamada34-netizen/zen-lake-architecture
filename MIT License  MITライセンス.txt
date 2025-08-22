@@ -1,0 +1,42 @@
+MIT License / MITライセンス
+
+The Zen Lake Architecture — including configuration files, benchmark logs, and documentation —  
+is released under the MIT License.
+
+Zen Lake Architecture（設定ファイル、ベンチマークログ、ドキュメントを含む）は、  
+MITライセンスのもとで公開されています。
+
+Copyright (c) 2025 mikihiyamada  
+著作権 (c) 2025 mikihiyamada
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this architecture and associated documentation files (the "Structure"), to deal  
+in the Structure without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Structure, and to permit persons to whom the Structure is  
+furnished to do so, subject to the following conditions:
+
+本構成および関連文書ファイル（以下「構成物」）のコピーを取得した者に対し、  
+無償で、以下の条件のもと、制限なく使用、複製、改変、統合、出版、配布、  
+サブライセンス、または販売する権利を許諾し、さらに構成物を提供された者にも  
+同様の権利を許諾します。
+
+The above copyright notice and this permission notice shall be included in all  
+copies or substantial portions of the Structure.
+
+上記の著作権表示および本許諾表示は、構成物のすべてのコピーまたは重要な部分に  
+含めるものとします。
+
+THE STRUCTURE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE STRUCTURE OR THE USE OR OTHER DEALINGS IN THE  
+STRUCTURE.
+
+本構成物は「現状のまま」提供されており、商品性、特定目的への適合性、  
+および非侵害についての黙示的保証を含め、いかなる種類の保証もありません。  
+著作権者またはその他の関係者は、契約、不法行為、またはその他の理由の如何を問わず、  
+構成物またはその使用、その他の取引に起因または関連して生じた一切の請求、  
+損害、その他の責任について責任を負いません。
