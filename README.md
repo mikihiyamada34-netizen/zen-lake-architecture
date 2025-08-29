@@ -1,4 +1,5 @@
 # Zen Lake Architecture
+# "With the help of AI, I calculated 50 billion digits of pi on a computer I got for around 54 dollars on Yahoo Auctions, and shared the results on GitHub." The journey continues...
 
 Using a 10-year-old PC (HP ProDesk 600 G2 SF), we successfully computed 50 billion digits of π in 22 hours using y-cruncher.  
 This is a practical guide to achieving stable, reproducible π computations up to 100 billion digits on low-cost hardware.  
@@ -77,3 +78,4 @@ This project uses y-cruncher, a high-precision constant calculator developed by 
 It is used here for non-commercial, educational purposes within the bounds of its official license.  
 For more information and downloads, visit the official site:  
 https://www.numberworld.org/y-cruncher/
+
